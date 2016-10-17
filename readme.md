@@ -1,5 +1,5 @@
 # DWARF
-DWARF - is "moduled" RMS that can bypass almost all security solutions available including a lot of antivirus systems, IPS/IDS, and more.
+DWARF - is module-managed RMS that can bypass almost all security solutions available including a lot of antivirus systems, IPS/IDS, and more.
 </br>
 ![Image](http://wow.zamimg.com/uploads/screenshots/small/59467.jpg) 
 </br> > How DWARF systems look
