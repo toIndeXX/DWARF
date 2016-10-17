@@ -42,6 +42,13 @@ Auto start-up is being in stealth mode (msconfig shows nothing, nothing is kept 
 DWARF was coded in Delphi and C++ (modules are in C++, main loader is in Delphi).
 DWARF only can be used in Windows, and it was designed only to use in Windows.
 
+## How to compile?
+Libraries needed: </br>
+ssleay / libeay for SSL </br>
+Synapse for Delphi </br>
+Compile C++ modules in VS 2015 (Virtual Studio 2015), Delphi (main module which includes C&C and etc) in Delphi.</br>
+Do not forget to configure your settings in implant.dpr (mail_accout, mail_password, mail_server, mailsmtpserver, mail_port)
+
 ## TODO (or WIP)
 Ring0 Rootkit that will hide process and files from task manager and explorer, and also will interrupt WinAPI functions and antivirus/IDS/IPS work, so rootkit will make DWARF 100% invisible from any IPS/IDS/Antivirus system that exists at the moment and protect DWARF from being deleted (persistence). 
 
