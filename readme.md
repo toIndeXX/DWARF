@@ -49,6 +49,9 @@ Synapse for Delphi </br>
 Compile C++ modules in VS 2015 (Virtual Studio 2015), Delphi (main module which includes C&C and etc) in Delphi.</br>
 Do not forget to configure your settings in implant.dpr (mail_accout, mail_password, mail_server, mailsmtpserver, mail_port)
 
+## WARNING BEFORE USE!
+Please keep in mind that we didn't test this software anyhow except basic tests of functionality, and please mention that we made some really bad mistakes during the development to make sure that this software is not going to be misused, keep that in mind - person who want to modify DWARF and use it for spying or whatever.
+
 ## TODO (or WIP)
 Ring0 Rootkit that will hide process and files from task manager and explorer, and also will interrupt WinAPI functions and antivirus/IDS/IPS work, so rootkit will make DWARF 100% invisible from any IPS/IDS/Antivirus system that exists at the moment and protect DWARF from being deleted (persistence). 
 
