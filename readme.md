@@ -14,7 +14,7 @@ DWARF is piece of software that was first of all created in order for people to 
 
 ## Who created this?
 
-This piece of software was created by two people. Information security software designer (me, [Roddy](https://github.com/hyracan/) (that's my nickname, not name)) and coder ([@denlovefen](https://github.com/denlovefen/). DWARF was developed in two weeks (including the concept writing and coding).
+This piece of software was created by two people. Information security software designer (me, [Roddy](https://github.com/hyracan/) (that's my nickname, not name)) and coder ([@denlovefen](https://github.com/denlovefen/)). DWARF was developed in two weeks (including the concept writing and coding).
 
 ## What were your motivation to create this?
 
