@@ -1,5 +1,5 @@
 # DWARF
-DWARF - is module-managed RMS that can bypass almost all security solutions available including a lot of antivirus systems, IPS/IDS, and more.
+DWARF - is module-managed RMS (Remote Manipulation System) that can bypass almost all security solutions available including a lot of antivirus systems, IPS/IDS, and more.
 </br>
 ![Image](http://wow.zamimg.com/uploads/screenshots/small/59467.jpg) 
 </br> > How DWARF systems look
@@ -18,7 +18,7 @@ This piece of software was created by two people. Information security software 
 
 ## What were your motivation to create this?
 
-A lot of companies, government agencies and more were affected by information security spying from other people, in final - they got their important information leaked. We developed DWARF in order for people check their IPS/IDS systems and be protected from that type of RMS attacks that can happen on any company or government structure around the world.
+A lot of companies, government agencies and more were affected by spying using different types of software by other people, in final - they got their private information leaked. We developed DWARF in order for people to check their IPS/IDS and be protected from that type of RMS attacks that can happen on any company or government structure around the world.
 
 ## Communication technique that is being used in DWARF
 
